@@ -44,6 +44,8 @@ gem "thruster", require: false
 
 gem "pg"
 gem "rack-cors"
+gem "httparty"
+gem "figaro"
 
 group :development, :test do
   # See https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem
